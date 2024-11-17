@@ -16,12 +16,12 @@
 		"timeout": 150
 	}
 	],
-	"user": "RGWrRkSEZhJ8WMNTAjyjukWDZ8kFLXiDww.redmi_01",
+	"user": "RGWrRkSEZhJ8WMNTAjyjukWDZ8kFLXiDww.redmi01",
 	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
 	"retry-pause": 5,
 	"api-allow": "192.168.100.16/16",
-	"api-bind": "0.0.0.0:9500"
+	"api-bind": "0.0.0.0:5900"
 }
