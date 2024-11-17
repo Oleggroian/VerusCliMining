@@ -17,7 +17,7 @@
 	}
 	],
 	"user": "RGWrRkSEZhJ8WMNTAjyjukWDZ8kFLXiDww",
-	"pass": "c=VRSC,mc=VRSC,m=party.qwerty11,ID=redmi_01",
+	"pass": "c=VRSC,mc=VRSC,m=party.qwerty11,ID=redmi01",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
